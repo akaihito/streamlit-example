@@ -2,7 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 # created-by: conda 24.11.3
-_anaconda_depends=2024.10=py312_mkl_0
 aext-assistant=4.1.0=py312haa95532_jl4_0
 aext-assistant-server=4.1.0=py312haa95532_0
 aext-core=4.1.0=py312haa95532_jl4_0
